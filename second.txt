@@ -1,2 +1,4 @@
 This is scond.txt
 This is a change.
+
+updated second.txt
